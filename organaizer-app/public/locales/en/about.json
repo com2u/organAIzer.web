@@ -1,0 +1,126 @@
+{
+  "title": "About Us",
+  "description": "Learn more about OrganAIzer and our team",
+  "contact": {
+    "title": "Contact Information",
+    "owner": "Owner",
+    "location": "Location",
+    "contactForm": "Contact Form",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "messageSent": "Thank you for your message! We will get back to you soon.",
+    "getInTouch": "Get in Touch",
+    "emailMethod": "Email",
+    "emailDesc": "Send us an email for general inquiries.",
+    "githubMethod": "GitHub",
+    "githubDesc": "Visit our GitHub repository.",
+    "officeHoursMethod": "Office Hours",
+    "officeHoursValue": "Every Tuesday 2-4 PM CET",
+    "officeHoursDesc": "Schedule an appointment for a personal consultation.",
+    "nameLabel": "Your Name",
+    "emailLabel": "Your Email",
+    "messageLabel": "Your Message",
+    "sendButton": "Send Message",
+    "getInTouchTitle": "Get in Touch",
+    "infoTitle": "Contact Information",
+    "ownerLabel": "Owner",
+    "locationLabel": "Location",
+    "githubLabel": "GitHub"
+  },
+  "project": {
+    "title": "About the Project",
+    "description": "OrganAIzer is an open-source project developed by Patrick Hess in Munich. The goal is to connect modern AI technology with practical meeting planning.",
+    "openSource": "The project is open source and welcomes contributors. Contact and bug reports can be submitted via the website organAIzer.app.",
+    "license": "License: OrganAIzer is published under a free license. See repository for details."
+  },
+  "owner": {
+    "name": "Patrick Hess",
+    "location": "Munich",
+    "email": "info@organAIzer.app"
+  },
+  "values": {
+    "title": "Our Values",
+    "customerFirst": {
+      "title": "Customer First",
+      "description": "Every feature is developed with real user feedback and needs."
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Continuous improvement with cutting-edge technology and practical solutions."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "description": "GDPR-compliant solutions with data protection as the highest priority."
+    },
+    "openSource": {
+      "title": "Open Source",
+      "description": "Transparent development with community contributions and feedback."
+    }
+  },
+  "milestones": {
+    "title": "Milestones",
+    "inception": {
+      "title": "Inception",
+      "description": "Ideation and conceptualization of OrganAIzer."
+    },
+    "beta": {
+      "title": "Beta Phase",
+      "description": "Launch of closed beta with initial users."
+    },
+    "release": {
+      "title": "Official Launch",
+      "description": "Release of the first stable version."
+    },
+    "expansion": {
+      "title": "International Expansion",
+      "description": "Expansion into new markets and languages."
+    }
+  },
+  "roadmap": {
+    "title": "Future Roadmap",
+    "0": {
+      "phase": "Q2 2025",
+      "focus": "Team Growth",
+      "goals": ["Expand development team by 5 new members", "Hire 2 AI specialists"]
+    },
+    "1": {
+      "phase": "Q3 2025",
+      "focus": "Product Expansion",
+      "goals": ["Integrate with more business tools", "Develop a mobile app"]
+    },
+    "2": {
+      "phase": "Q4 2025",
+      "focus": "Market Positioning",
+      "goals": ["Increase market share in Europe", "Enter the US market"]
+    }
+  },
+  "team": {
+    "founderTitle": "Founder",
+    "founderRole": "Founder",
+    "backgroundLabel": "Background",
+    "background": "Patrick Hess is an experienced software developer and AI enthusiast with over 15 years of experience in developing scalable applications.",
+    "visionLabel": "Vision",
+    "vision": "His vision is to revolutionize the way teams collaborate through intelligent automation and intuitive tools.",
+    "approachTitle": "Our Approach",
+    "approachItems": [
+      "User-centric design with continuous feedback loops",
+      "Agile development with monthly releases",
+      "Security-first architecture with regular audits",
+      "Performance optimization for teams of all sizes"
+    ],
+    "communityTitle": "Community & Contact",
+    "communityItems": [
+      "Open Source on GitHub with 50+ contributors",
+      "Monthly community calls for feature discussions",
+      "Bug bounty program for security researchers",
+      "Translation contributions from global volunteers"
+    ]
+  },
+  "story": {
+    "title": "Our Story",
+    "content": "OrganAIzer was born out of frustration with inefficient meetings and lack of task traceability. Our founder, Patrick Hess, recognized the potential of AI to overcome these challenges and create a solution that truly makes teams more productive.",
+    "growth": "Since our inception, we have continuously evolved based on user feedback and the latest technological advancements. We are proud to offer a platform that not only optimizes meetings but also improves collaboration and communication within teams."
+  }
+}

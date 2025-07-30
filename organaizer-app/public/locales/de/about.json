@@ -1,0 +1,126 @@
+{
+  "title": "Über uns",
+  "description": "Lernen Sie mehr über OrganAIzer und unser Team",
+  "contact": {
+    "title": "Kontaktinformationen",
+    "owner": "Geschäftsführer",
+    "location": "Standort",
+    "contactForm": "Kontaktformular",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "messageSent": "Vielen Dank für Ihre Nachricht! Wir werden uns bald bei Ihnen melden.",
+    "getInTouch": "Kontakt aufnehmen",
+    "emailMethod": "E-Mail",
+    "emailDesc": "Senden Sie uns eine E-Mail für allgemeine Anfragen.",
+    "githubMethod": "GitHub",
+    "githubDesc": "Besuchen Sie unser GitHub-Repository.",
+    "officeHoursMethod": "Sprechstunden",
+    "officeHoursValue": "Jeden Dienstag 14-16 Uhr MEZ",
+    "officeHoursDesc": "Vereinbaren Sie einen Termin für eine persönliche Beratung.",
+    "nameLabel": "Ihr Name",
+    "emailLabel": "Ihre E-Mail",
+    "messageLabel": "Ihre Nachricht",
+    "sendButton": "Nachricht senden",
+    "getInTouchTitle": "Kontakt aufnehmen",
+    "infoTitle": "Kontaktinformationen",
+    "ownerLabel": "Inhaber",
+    "locationLabel": "Standort",
+    "githubLabel": "GitHub"
+  },
+  "project": {
+    "title": "Über das Projekt",
+    "description": "OrganAIzer ist ein Open-Source-Projekt, das von Patrick Hess in München entwickelt wird. Das Ziel ist es, moderne KI-Technologie mit praktischer Meeting-Planung zu verbinden.",
+    "openSource": "Das Projekt ist Open Source und freut sich über Mitwirkende. Kontakt und Bug-Reports können über die Webseite organisAIzer.app eingereicht werden.",
+    "license": "Lizenz: OrganAIzer wird unter einer freien Lizenz veröffentlicht. Details siehe Repository."
+  },
+  "owner": {
+    "name": "Patrick Hess",
+    "location": "München",
+    "email": "info@organAIzer.app"
+  },
+  "values": {
+    "title": "Unsere Werte",
+    "customerFirst": {
+      "title": "Kundenorientierung",
+      "description": "Jede Funktion wird mit echten Nutzer-Feedback und Bedürfnissen entwickelt."
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Kontinuierliche Verbesserung mit modernster Technologie und praktischen Lösungen."
+    },
+    "privacy": {
+      "title": "Datenschutz",
+      "description": "DSGVO-konforme Lösungen mit Datenschutz als höchste Priorität."
+    },
+    "openSource": {
+      "title": "Open Source",
+      "description": "Transparente Entwicklung mit Community-Beiträgen und Feedback."
+    }
+  },
+  "milestones": {
+    "title": "Meilensteine",
+    "inception": {
+      "title": "Gründung",
+      "description": "Ideenfindung und Konzeptualisierung von OrganAIzer."
+    },
+    "beta": {
+      "title": "Beta-Phase",
+      "description": "Start der geschlossenen Beta mit ersten Nutzern."
+    },
+    "release": {
+      "title": "Offizieller Launch",
+      "description": "Veröffentlichung der ersten stabilen Version."
+    },
+    "expansion": {
+      "title": "Internationale Expansion",
+      "description": "Erweiterung in neue Märkte und Sprachen."
+    }
+  },
+  "roadmap": {
+    "title": "Zukünftige Roadmap",
+    "0": {
+      "phase": "Q2 2025",
+      "focus": "Team-Wachstum",
+      "goals": ["Erweiterung des Entwicklerteams um 5 neue Mitglieder", "Einstellung von 2 KI-Spezialisten"]
+    },
+    "1": {
+      "phase": "Q3 2025",
+      "focus": "Produkterweiterung",
+      "goals": ["Integration mit weiteren Business-Tools", "Entwicklung einer mobilen App"]
+    },
+    "2": {
+      "phase": "Q4 2025",
+      "focus": "Marktpositionierung",
+      "goals": ["Erhöhung der Marktanteile in Europa", "Eintritt in den US-Markt"]
+    }
+  },
+  "team": {
+    "founderTitle": "Gründer",
+    "founderRole": "Gründer",
+    "backgroundLabel": "Hintergrund",
+    "background": "Patrick Hess ist ein erfahrener Softwareentwickler und KI-Enthusiast mit über 15 Jahren Erfahrung in der Entwicklung skalierbarer Anwendungen.",
+    "visionLabel": "Vision",
+    "vision": "Seine Vision ist es, die Art und Weise, wie Teams zusammenarbeiten, durch intelligente Automatisierung und intuitive Tools zu revolutionieren.",
+    "approachTitle": "Unser Ansatz",
+    "approachItems": [
+      "Nutzer-zentriertes Design mit kontinuierlichen Feedback-Schleifen",
+      "Agile Entwicklung mit monatlichen Releases",
+      "Sicherheit-zuerst Architektur mit regelmäßigen Audits",
+      "Performance-Optimierung für Teams aller Größen"
+    ],
+    "communityTitle": "Community & Kontakt",
+    "communityItems": [
+      "Open Source auf GitHub mit 50+ Mitwirkenden",
+      "Monatliche Community-Calls für Feature-Diskussionen",
+      "Bug-Bounty-Programm für Sicherheitsforscher",
+      "Übersetzungsbeiträge von globalen Freiwilligen"
+    ]
+  },
+  "story": {
+    "title": "Unsere Geschichte",
+    "content": "OrganAIzer wurde aus der Frustration über ineffiziente Meetings und mangelnde Nachverfolgbarkeit von Aufgaben geboren. Unser Gründer, Patrick Hess, erkannte das Potenzial von KI, diese Herausforderungen zu meistern und eine Lösung zu schaffen, die Teams wirklich produktiver macht.",
+    "growth": "Seit unserer Gründung haben wir uns stetig weiterentwickelt, basierend auf dem Feedback unserer Nutzer und den neuesten technologischen Fortschritten. Wir sind stolz darauf, eine Plattform anzubieten, die nicht nur Meetings optimiert, sondern auch die Zusammenarbeit und Kommunikation innerhalb von Teams verbessert."
+  }
+}

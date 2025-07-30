@@ -1,0 +1,170 @@
+{
+  "title": "Unsere Produkte",
+  "description": "Wählen Sie die passende Lösung für Ihre Anforderungen",
+  "subtitle": "Flexible Lösungen für jede Unternehmensgröße und Anforderung",
+  "saas": {
+    "title": "OrganAIzer SaaS",
+    "description": "Cloud-basierte Lösung mit sofortiger Verfügbarkeit",
+    "features": [
+      "Sofort einsatzbereit",
+      "Automatische Updates",
+      "Skalierbar",
+      "99.9% Verfügbarkeit",
+      "GDPR-konform"
+    ],
+    "pricing": {
+      "title": "Preismodell",
+      "free": "Kostenlos bis 100 Einträge",
+      "basic": "19€ pro Nutzer/Monat",
+      "enterprise": "49€ pro Nutzer/Monat"
+    },
+    "useCases": {
+      "title": "Perfekt für",
+      "items": [
+        "Kleine bis mittlere Teams",
+        "Schnelle Einführung",
+        "Ohne IT-Aufwand",
+        "Budget-bewusste Unternehmen"
+      ]
+    },
+    "cta": "Kostenlos testen"
+  },
+  "selfHosted": {
+    "title": "OrganAIzer Self Hosted",
+    "description": "Volle Kontrolle über Ihre Daten und Infrastruktur",
+    "features": [
+      "Volle Datenkontrolle",
+      "Anpassbar",
+      "Open Source",
+      "GDPR-konform",
+      "Kostenlos"
+    ],
+    "requirements": {
+      "title": "Technische Anforderungen",
+      "items": [
+        "Docker-fähige Umgebung",
+        "PostgreSQL Datenbank",
+        "Min. 2GB RAM",
+        "SSL-Zertifikat"
+      ]
+    },
+    "useCases": {
+      "title": "Perfekt für",
+      "items": [
+        "Datenschutz-kritische Unternehmen",
+        "Große Organisationen",
+        "Individuelle Anpassungen",
+        "Volle Kontrolle"
+      ]
+    },
+    "cta": "Jetzt herunterladen"
+  },
+  "custom": {
+    "title": "OrganAIzer Kundenanpassungen",
+    "description": "Maßgeschneiderte Lösungen nach Ihren Anforderungen",
+    "features": [
+      "Individuelle Anpassung",
+      "Persönliche Beratung",
+      "Flexible Preismodelle",
+      "Langfristige Unterstützung",
+      "Skalierbare Lösungen"
+    ],
+    "process": {
+      "title": "Unser Prozess",
+      "steps": [
+        "Anforderungsanalyse",
+        "Konzeptentwicklung",
+        "Implementierung",
+        "Testing & QA",
+        "Deployment & Support"
+      ]
+    },
+    "useCases": {
+      "title": "Typische Anpassungen",
+      "items": [
+        "Branchenspezifische Features",
+        "Integration bestehender Systeme",
+        "Benutzerdefinierte Workflows",
+        "Corporate Identity"
+      ]
+    },
+    "cta": "Beratung anfordern"
+  },
+  "comparison": {
+    "title": "Produktvergleich",
+    "features": {
+      "title": "Features",
+      "items": [
+        "KI-gestützte Meeting-Planung",
+        "Automatische Protokoll-Erstellung",
+        "Team-Kollaboration",
+        "Mobile App (in Entwicklung)",
+        "Integrationen",
+        "API-Zugriff",
+        "Custom Branding",
+        "Dedicated Support"
+      ]
+    },
+    "saas": "SaaS",
+    "selfHosted": "Self-Hosted",
+    "custom": "Custom",
+    "available": "Verfügbar",
+    "limited": "Eingeschränkt",
+    "onRequest": "Auf Anfrage"
+  },
+  "consultation": {
+    "title": "Welche Lösung passt zu Ihnen?",
+    "description": "Kontaktieren Sie uns für eine persönliche Beratung und finden Sie die passende Lösung für Ihre Anforderungen.",
+    "cta": "Kostenlose Beratung vereinbaren"
+  },
+  "roadmap": {
+    "title": "Produkt-Roadmap",
+    "subtitle": "Sehen Sie, was als Nächstes kommt",
+    "items": [
+      {
+        "title": "Mobile App (Q2 2025)",
+        "description": "Native iOS und Android Apps für unterwegs",
+        "status": "In Entwicklung"
+      },
+      {
+        "title": "Erweiterte KI-Features (Q3 2025)",
+        "description": "Noch intelligentere Meeting-Zusammenfassungen und Vorschläge",
+        "status": "Geplant"
+      },
+      {
+        "title": "Enterprise SSO (Q4 2025)",
+        "description": "Integration mit Active Directory und SAML",
+        "status": "Geplant"
+      },
+      {
+        "title": "Advanced Analytics (Q1 2026)",
+        "description": "Detaillierte Meeting-Effizienz-Analysen",
+        "status": "Konzept"
+      }
+    ]
+  },
+  "useCases": {
+    "title": "Anwendungsfälle aus der Praxis",
+    "subtitle": "Wie Teams OrganAIzer nutzen, um ihre Meetings zu transformieren",
+    "devTeams": {
+      "title": "Entwicklungsteams",
+      "description": "Sprint-Planung, Retrospektiven und tägliche Standups mit automatischer Aufgabenverfolgung und Code-Review-Integration.",
+      "items": [
+        "Automatisierung der Sprint-Planung",
+        "Dokumentation von Retrospektiven",
+        "Integration der Fehlerverfolgung",
+        "Workflows für Code-Reviews"
+      ]
+    },
+    "managementMeetings": {
+      "title": "Management-Meetings",
+      "description": "Strategische Planungssitzungen mit Entscheidungsverfolgung und Follow-up-Management über Abteilungen hinweg.",
+      "items": [
+        "Vorlagen für strategische Planung",
+        "Dokumentation von Entscheidungen",
+        "Abteilungsübergreifende Koordination",
+        "Fortschrittsverfolgung"
+      ]
+    }
+  }
+}

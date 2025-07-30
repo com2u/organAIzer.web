@@ -1,0 +1,13 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Produkte",
+    "productsSaaS": "OrganAIzer SaaS",
+    "productsSelfHosted": "OrganAIzer Self Hosted",
+    "productsCustom": "OrganAIzer Kundenlösungen",
+    "technology": "Technologie",
+    "ai": "KI",
+    "pricing": "Preise",
+    "about": "Über uns"
+  }
+}

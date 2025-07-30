@@ -1,0 +1,137 @@
+{
+  "title": "Preise",
+  "description": "Transparente Preismodelle für jede Anforderung",
+  "plans": {
+    "free": {
+      "title": "Free",
+      "price": "Kostenlos",
+      "features": [
+        "100 Einträge",
+        "10 KI-Anfragen",
+        "Basis-Support"
+      ],
+      "limitations": [
+        "Insgesamt 100 Einträge",
+        "Grundlegende KI-Funktionen",
+        "Community-Support"
+      ],
+      "bestFor": "Einzelnutzer & kleine Teams",
+      "cta": "Jetzt starten"
+    },
+    "basic": {
+      "title": "Basic",
+      "price": "19€ / Nutzer",
+      "features": [
+        "1 Million Einträge",
+        "1000 KI/Monat",
+        "E-Mail-Support"
+      ],
+      "limitations": [
+        "1 Mio. Einträge pro Nutzer",
+        "Standard-KI",
+        "E-Mail-Support"
+      ],
+      "bestFor": "Wachsende Teams & Startups",
+      "cta": "Auswählen"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "49€ / Nutzer",
+      "features": [
+        "Unbegrenzt",
+        "Entra ID",
+        "MCP Server",
+        "Backups"
+      ],
+      "limitations": [
+        "Unbegrenzte Einträge",
+        "Erweiterte KI",
+        "Priorisierter Support"
+      ],
+      "bestFor": "Große Organisationen",
+      "cta": "Kontakt aufnehmen"
+    },
+    "selfHosted": {
+      "title": "Self-Hosted",
+      "price": "Kostenlos",
+      "features": [
+        "Volle Anpassbarkeit",
+        "GDPR konform"
+      ],
+      "sourceCode": "Quellcode ansehen",
+      "cta": "Jetzt herunterladen"
+    },
+    "mostPopular": "Am beliebtesten"
+  },
+  "calculator": {
+    "title": "Preiskalkulator",
+    "teamSize": "Teamgröße",
+    "users": "Nutzer",
+    "basicPlan": "Basic Plan",
+    "enterprisePlan": "Enterprise"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "0": {
+      "question": "Kann ich den Plan später ändern?",
+      "answer": "Ja, Sie können jederzeit upgraden oder downgraden. Änderungen treten sofort in Kraft."
+    },
+    "1": {
+      "question": "Was passiert, wenn ich das kostenlose Limit überschreite?",
+      "answer": "Sie erhalten eine Benachrichtigung und können entweder upgraden oder alte Einträge archivieren."
+    },
+    "2": {
+      "question": "Gibt es einen Rabatt für jährliche Abrechnung?",
+      "answer": "Ja, die jährliche Abrechnung bietet einen Rabatt von 15% auf alle kostenpflichtigen Pläne."
+    },
+    "3": {
+      "question": "Bieten Sie Bildungsrabatte an?",
+      "answer": "Ja, wir bieten 50% Rabatt für Bildungseinrichtungen und gemeinnützige Organisationen."
+    }
+  },
+  "costComparison": {
+    "title": "ROI-Rechner: Zeit vs. Kosten",
+    "tableHeaders": {
+      "method": "Methode",
+      "monthlyCost": "Monatliche Kosten",
+      "hoursSaved": "Gesparte Stunden/Woche",
+      "roi": "ROI (50€/Stunde)"
+    },
+    "0": {
+      "method": "Traditionelle Meeting-Tools",
+      "efficiency": "Niedrig"
+    },
+    "1": {
+      "method": "OrganAIzer Basic",
+      "efficiency": "Hoch"
+    },
+    "2": {
+      "method": "OrganAIzer Enterprise",
+      "efficiency": "Sehr hoch"
+    }
+  },
+  "futurePricing": {
+    "title": "Zukünftige Preisgestaltung",
+    "0": {
+      "year": "2025",
+      "changes": [
+        "Einführung von Team-basierten Preisstufen",
+        "Hinzufügen von nutzungsbasierten Abrechnungsoptionen",
+        "Verbesserte KI-Funktionen im Basic-Plan"
+      ]
+    },
+    "1": {
+      "year": "2026",
+      "changes": [
+        "Mengenrabatte für über 100 Nutzer",
+        "Branchenspezifische Preismodelle",
+        "Erweiterte Analyse-Add-ons"
+      ]
+    }
+  },
+  "enterpriseContact": {
+    "title": "Benötigen Sie eine individuelle Preisgestaltung?",
+    "description": "Für Teams mit über 100 Nutzern oder speziellen Anforderungen kontaktieren Sie unser Vertriebsteam für eine individuelle Preisgestaltung.",
+    "button": "Vertriebsteam kontaktieren"
+  }
+}

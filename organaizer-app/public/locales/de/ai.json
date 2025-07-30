@@ -1,0 +1,110 @@
+{
+  "title": "Künstliche Intelligenz",
+  "description": "KI-gestützte Funktionen für intelligente Meeting-Planung und Aufgabenverwaltung",
+  "features": [
+    "Automatische Zusammenfassung von Inhalten",
+    "Intelligente Vorschläge für Einträge und Verknüpfungen",
+    "Prompt-basierte Generierung und Anpassung",
+    "Mehrere Eingabekanäle für Kunden-Tools"
+  ],
+  "howItWorks": {
+    "title": "So hilft die KI",
+    "items": [
+      {
+        "title": "Inhaltsanalyse",
+        "description": "KI analysiert Meeting-Inhalte und liefert intelligente Erkenntnisse"
+      },
+      {
+        "title": "Intelligente Vorschläge",
+        "description": "Erhalten Sie KI-gestützte Vorschläge für Aufgaben und Meeting-Verbesserungen"
+      },
+      {
+        "title": "Team-Kollaboration",
+        "description": "KI hilft dabei, Team-Workflows und Kommunikation zu optimieren"
+      },
+      {
+        "title": "Automatisierung",
+        "description": "Automatisieren Sie repetitive Aufgaben und konzentrieren Sie sich auf das Wesentliche"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bereit für KI-gestützte Meetings?",
+    "description": "Entdecken Sie, wie OrganAIzers KI-Funktionen Ihre Meeting-Erfahrung transformieren können.",
+    "button": "Mit KI starten"
+  },
+  "currentCapabilities": {
+    "title": "Aktuelle KI-Funktionen",
+    "items": [
+      {
+        "icon": "faFileAlt",
+        "title": "Meeting-Zusammenfassungsgenerierung",
+        "description": "KI erstellt automatisch prägnante Zusammenfassungen aus Meeting-Notizen und Diskussionen, die wichtige Entscheidungen und Aktionspunkte hervorheben."
+      },
+      {
+        "icon": "faSearch",
+        "title": "Intelligente Inhaltsentdeckung",
+        "description": "Intelligente Suche über alle Einträge mit semantischem Verständnis – finden Sie relevante Informationen auch bei vagen Anfragen."
+      },
+      {
+        "icon": "faClock",
+        "title": "Optimierung der Zeitallokation",
+        "description": "KI schlägt eine optimale Zeitverteilung für Agendapunkte basierend auf historischen Daten und Themenkomplexität vor."
+      },
+      {
+        "icon": "faMagic",
+        "title": "Kontextbezogene Vorschläge",
+        "description": "Schlägt relevante Labels vor, weist Aufgaben den entsprechenden Teammitgliedern zu und schlägt Folgeaktionen basierend auf der Inhaltsanalyse vor."
+      }
+    ]
+  },
+  "futureRoadmap": {
+    "title": "KI-Entwicklungs-Roadmap",
+    "items": [
+      {
+        "phase": "Q2 2025",
+        "title": "Verbesserte Verarbeitung natürlicher Sprache",
+        "description": "Verbessertes Verständnis des Meeting-Contextes mit besserer deutscher Sprachunterstützung und Erkennung branchenspezifischer Terminologie.",
+        "status": "In Entwicklung"
+      },
+      {
+        "phase": "Q3 2025",
+        "title": "Prädiktive Meeting-Analysen",
+        "description": "KI wird Meeting-Ergebnisse vorhersagen, potenzielle Engpässe identifizieren und optimale Teilnehmerlisten basierend auf Fachwissen vorschlagen.",
+        "status": "Geplant"
+      },
+      {
+        "phase": "Q4 2025",
+        "title": "Sprach-zu-Text-Integration",
+        "description": "Echtzeit-Transkription mit Sprecheridentifikation und automatischer Extraktion von Aktionspunkten aus Audioaufnahmen.",
+        "status": "Konzeptphase"
+      },
+      {
+        "phase": "Q1 2026",
+        "title": "Intelligente Meeting-Vorlagen",
+        "description": "KI-generierte Meeting-Vorlagen basierend auf Meeting-Typ, Teamzusammensetzung und historischen Erfolgsmustern.",
+        "status": "Forschungsphase"
+      }
+    ]
+  },
+  "aiLimitations": {
+    "currentLimitations": {
+      "title": "Aktuelle Einschränkungen",
+      "items": [
+        "KI erfordert menschliche Überprüfung für kritische Entscheidungen",
+        "Komplexe technische Diskussionen erfordern möglicherweise manuelle Verfeinerung",
+        "Kulturelle Nuancen in der Kommunikation werden noch gelernt",
+        "Datenschutzsensible Inhalte erfordern explizite Benutzerzustimmung"
+      ]
+    },
+    "dataPrivacy": {
+      "title": "Datenschutz zuerst",
+      "items": [
+        "Alle KI-Verarbeitung erfolgt GDPR-konform",
+        "Benutzerdaten werden niemals zum Training externer Modelle verwendet",
+        "Opt-in-System für die Nutzung von KI-Funktionen",
+        "Volle Transparenz bei KI-Entscheidungsprozessen"
+      ]
+    }
+  }
+}

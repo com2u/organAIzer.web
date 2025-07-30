@@ -1,0 +1,237 @@
+{
+  "title": "OrganAIzer.App",
+  "subtitle": "KI-gestützte Meeting-Planung und Aufgabenverwaltung",
+  "description": "OrganAIzer ist eine moderne, KI-unterstützte Applikation zur kollaborativen Planung, Durchführung und Dokumentation von Meetings und Aufgaben.",
+  "cta": "Jetzt starten",
+  "learnMore": "Mehr erfahren",
+  "features": {
+    "title": "Hauptfunktionen",
+    "items": [
+      "KI-gestützte Meeting-Planung",
+      "Automatische Protokoll-Erstellung",
+      "Intelligente Aufgabenverwaltung",
+      "Team-Kollaboration in Echtzeit",
+      "GDPR-konforme Datensicherheit"
+    ]
+  },
+  "ready": {
+    "title": "Bereit zu starten?",
+    "description": "Entdecken Sie, wie OrganAIzer Ihre Meetings und Aufgaben revolutionieren kann.",
+    "cta": "Produkte ansehen"
+  },
+  "hero": {
+    "title": "Revolutionieren Sie Ihre Meetings",
+    "subtitle": "Von chaotischen Besprechungen zu strukturierten Erfolgen",
+    "description": "OrganAIzer verwandelt ineffiziente Meetings in produktive, strukturierte Sitzungen mit KI-gestützter Planung, Echtzeit-Kollaboration und automatischer Dokumentation.",
+    "primaryCta": "Kostenlos testen",
+    "secondaryCta": "Live-Demo ansehen"
+  },
+  "problems": {
+    "title": "Häufige Meeting-Probleme, die wir lösen",
+    "items": [
+      {
+        "problem": "Keine klare Agenda",
+        "solution": "KI generiert automatisch strukturierte Agendas basierend auf Ihren Themen"
+      },
+      {
+        "problem": "Fehlende Protokolle",
+        "solution": "Automatische Protokoll-Erstellung mit allen Entscheidungen und Aufgaben"
+      },
+      {
+        "problem": "Verlorene To-Dos",
+        "solution": "Intelligente Aufgabenverwaltung mit Verfolgung und Erinnerungen"
+      },
+      {
+        "problem": "Schlechte Vorbereitung",
+        "solution": "KI-basierte Vorbereitung mit Zeitplanung und Material-Sammlung"
+      }
+    ]
+  },
+  "workflow": {
+    "title": "So funktioniert OrganAIzer",
+    "steps": [
+      {
+        "title": "1. Planen",
+        "description": "Erstellen Sie eine Assembly mit KI-Unterstützung und definieren Sie die Meeting-Agenda"
+      },
+      {
+        "title": "2. Durchführen",
+        "description": "Führen Sie strukturierte Meetings durch mit Echtzeit-Notizen und Aufgaben-Erfassung"
+      },
+      {
+        "title": "3. Dokumentieren",
+        "description": "Automatische Erstellung von Protokollen und Aufgabenlisten nach dem Meeting"
+      },
+      {
+        "title": "4. Nachverfolgen",
+        "description": "Verfolgen Sie Fortschritte und verwalten Sie Aufgaben bis zur Fertigstellung"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Was unsere Nutzer sagen",
+    "items": [
+      {
+        "quote": "OrganAIzer hat unsere Team-Effizienz um 300% gesteigert. Meetings sind jetzt produktiv!",
+        "author": "Sarah M., Projektmanagerin",
+        "company": "Tech Startup München"
+      },
+      {
+        "quote": "Die KI-gestützte Protokoll-Erstellung spart uns 5 Stunden pro Woche.",
+        "author": "Markus K., Teamleiter",
+        "company": "Consulting Firma"
+      },
+      {
+        "quote": "Endlich keine verlorenen To-Dos mehr. Alles ist übersichtlich und nachverfolgbar.",
+        "author": "Lisa S., Produktmanagerin",
+        "company": "Software-Unternehmen"
+      }
+    ]
+  },
+  "stats": {
+    "title": "Erfolgszahlen",
+    "subtitle": "Wie OrganAIzer.App Ihre Arbeit verbessern kann",
+    "items": [
+      { "value": "85%", "label": "Reduktion der Meeting-Zeit" },
+      { "value": "300%", "label": "Steigerung der Produktivität" },
+      { "value": "1000+", "label": "Zufriedene Teams" },
+      { "value": "50.000+", "label": "Erfolgreiche Meetings" }
+    ]
+  },
+  "integrations": {
+    "title": "Integrationen",
+    "description": "Verbinden Sie OrganAIzer mit Ihren bevorzugten Tools",
+    "offer": "Wir können Verbindungen zu Ihren bevorzugten Tools und verwendeten Anwendungen herstellen. Fordern Sie unser Angebot an.",
+    "items": ["Slack", "Microsoft Teams", "Google Calendar", "Zoom", "Notion", "Jira"]
+  },
+  "security": {
+    "title": "Sicherheit & Datenschutz",
+    "description": "Wir bauen unsere Anwendung OrganAIzer für Ihre Anforderungen auf. Gerne bieten wir Ihnen die Sicherheit und den Datenschutz, die Sie suchen. Fordern Sie unser Angebot an.",
+    "items": [
+      "GDPR-konforme Datenspeicherung",
+      "End-to-End-Verschlüsselung",
+      "EU-basierte Server",
+      "Regelmäßige Sicherheits-Audits",
+      "Zwei-Faktor-Authentifizierung"
+    ]
+  },
+  "technology": {
+    "title": "Technologie",
+    "description": "Moderne Technologie-Stack für beste Performance und Sicherheit",
+    "subtitle": "Enterprise-Grade Architektur für skalierbare Meeting-Lösungen",
+    "benefits": {
+      "title": "Warum unsere Technologie?",
+      "items": [
+        {
+          "title": "100% Datenkontrolle",
+          "description": "Self-Hosted Option gibt Ihnen volle Kontrolle über Ihre Daten"
+        },
+        {
+          "title": "Unbegrenzte Skalierbarkeit",
+          "description": "Cloud-native Architektur wächst mit Ihren Anforderungen"
+        },
+        {
+          "title": "Zero-Downtime Updates",
+          "description": "Rollierende Updates ohne Unterbrechung Ihrer Meetings"
+        },
+        {
+          "title": "Multi-Tenant Sicherheit",
+          "description": "Isolierte Datenbanken für maximale Datensicherheit"
+        }
+      ]
+    },
+    "architecture": {
+      "title": "Architektur-Übersicht",
+      "description": "OrganAIzer nutzt eine moderne Microservices-Architektur für maximale Performance und Zuverlässigkeit",
+      "components": [
+        {
+          "title": "PostgreSQL",
+          "description": "Hochperformante relationale Datenbank mit Multi-Tenant-Support",
+          "features": ["ACID-Compliance", "JSONB Support", "Volltextsuche", "Row-Level Security"]
+        },
+        {
+          "title": "Hasura GraphQL",
+          "description": "Echtzeit-API-Engine mit automatischer Schema-Generierung",
+          "features": ["Sofortige APIs", "Echtzeit-Abonnements", "Rollenbasierter Zugriff", "Caching"]
+        },
+        {
+          "title": "React + Vite",
+          "description": "Blitzschnelle Frontend-Performance mit modernem Build-System",
+          "features": ["Hot Module Reload", "Tree Shaking", "Code Splitting", "PWA Support"]
+        },
+        {
+          "title": "Docker & Kubernetes",
+          "description": "Container-Orchestrierung für skalierbare Bereitstellung",
+          "features": ["Auto-Scaling", "Lastverteilung", "Health Checks", "Rollierende Updates"]
+        },
+        {
+          "title": "AI/ML Pipeline",
+          "description": "Künstliche Intelligenz für intelligente Inhaltsverarbeitung",
+          "features": ["NLP Processing", "Inhaltsanalyse", "Intelligente Vorschläge", "Automatische Zusammenfassung"]
+        }
+      ]
+    },
+    "performance": {
+      "title": "Leistungsmetriken",
+      "description": "Wir werden kontinuierlich unsere Dienste verbessern. Wir können OrganAIzer.App an Ihre Performance-Anforderungen anpassen. Fragen Sie nach Enterprise-Support, um bereitzustellen:",
+      "metrics": [
+        { "label": "API Response Time", "value": "< 100ms", "description": "Durchschnittliche API-Antwortzeit" },
+        { "label": "Uptime", "value": "99.9%", "description": "Verfügbarkeit der SaaS-Plattform" },
+        { "label": "Concurrent Users", "value": "10.000+", "description": "Gleichzeitige Nutzer pro Instanz" },
+        { "label": "Data Processing", "value": "1M+ Entries", "description": "Pro Tag verarbeitete Einträge" }
+      ]
+    },
+    "security": {
+      "title": "Sicherheits-Features",
+      "items": [
+        {
+          "title": "End-to-End-Verschlüsselung",
+          "description": "Alle Daten werden in Ruhe und während der Übertragung verschlüsselt"
+        },
+        {
+          "title": "Zero-Trust-Architektur",
+          "description": "Jede Anfrage wird authentifiziert und autorisiert"
+        },
+        {
+          "title": "GDPR-konform",
+          "description": "Vollständige DSGVO-Konformität mit EU-basierten Servern"
+        },
+        {
+          "title": "Audit-Logging",
+          "description": "Vollständige Nachverfolgbarkeit aller Aktionen"
+        }
+      ]
+    },
+    "deployment": {
+      "title": "Bereitstellungs-Optionen",
+      "options": [
+        {
+          "title": "Cloud (SaaS)",
+          "description": "Sofort einsatzbereit mit 99.9% Uptime-Garantie",
+          "features": ["Sofort verfügbar", "Automatische Updates", "Skalierbar", "24/7 Support"]
+        },
+        {
+          "title": "Self-Hosted",
+          "description": "Volle Kontrolle über Ihre Infrastruktur und Daten",
+          "features": ["Volle Datenkontrolle", "Anpassbar", "Open Source", "GDPR-konform"]
+        },
+        {
+          "title": "Hybrid",
+          "description": "Kombination aus Cloud und On-Premise nach Ihren Bedürfnissen",
+          "features": ["Flexible Architektur", "Daten-Souveränität", "Skalierbar", "Maßgeschneidert"]
+        }
+      ]
+    },
+    "compliance": {
+      "title": "Compliance & Zertifizierungen",
+      "standards": [
+        "ISO 27001 Informationssicherheit",
+        "SOC 2 Typ II",
+        "DSGVO / GDPR",
+        "HIPAA Ready",
+        "FedRAMP Ready"
+      ],
+      "description": "Wir können OrganAIzer.App an Ihre Compliance-Wünsche anpassen. Wir werden kontinuierlich unsere Dienste verbessern. Fragen Sie nach Enterprise-Support, um Folgendes bereitzustellen:"
+    }
+  }
+}

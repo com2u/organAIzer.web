@@ -1,0 +1,170 @@
+{
+  "title": "Our Products",
+  "description": "Choose the right solution for your requirements",
+  "subtitle": "Flexible solutions for every business size and requirement",
+  "saas": {
+    "title": "OrganAIzer SaaS",
+    "description": "Cloud-based solution with instant availability",
+    "features": [
+      "Ready to use immediately",
+      "Automatic updates",
+      "Scalable",
+      "99.9% availability",
+      "GDPR compliant"
+    ],
+    "pricing": {
+      "title": "Pricing Model",
+      "free": "Free up to 100 entries",
+      "basic": "$19 per user/month",
+      "enterprise": "$49 per user/month"
+    },
+    "useCases": {
+      "title": "Perfect for",
+      "items": [
+        "Small to medium teams",
+        "Quick deployment",
+        "No IT overhead",
+        "Budget-conscious companies"
+      ]
+    },
+    "cta": "Start Free Trial"
+  },
+  "selfHosted": {
+    "title": "OrganAIzer Self Hosted",
+    "description": "Full control over your data and infrastructure",
+    "features": [
+      "Full data control",
+      "Customizable",
+      "Open Source",
+      "GDPR compliant",
+      "Free"
+    ],
+    "requirements": {
+      "title": "Technical Requirements",
+      "items": [
+        "Docker-capable environment",
+        "PostgreSQL database",
+        "Min. 2GB RAM",
+        "SSL certificate"
+      ]
+    },
+    "useCases": {
+      "title": "Perfect for",
+      "items": [
+        "Privacy-critical companies",
+        "Large organizations",
+        "Custom integrations",
+        "Full control"
+      ]
+    },
+    "cta": "Download Now"
+  },
+  "custom": {
+    "title": "OrganAIzer Custom Solutions",
+    "description": "Tailored solutions according to your requirements",
+    "features": [
+      "Individual customization",
+      "Personal consultation",
+      "Flexible pricing models",
+      "Long-term support",
+      "Scalable solutions"
+    ],
+    "process": {
+      "title": "Our Process",
+      "steps": [
+        "Requirements analysis",
+        "Concept development",
+        "Implementation",
+        "Testing & QA",
+        "Deployment & Support"
+      ]
+    },
+    "useCases": {
+      "title": "Typical Customizations",
+      "items": [
+        "Industry-specific features",
+        "Integration with existing systems",
+        "Custom workflows",
+        "Corporate identity"
+      ]
+    },
+    "cta": "Request Consultation"
+  },
+  "comparison": {
+    "title": "Product Comparison",
+    "features": {
+      "title": "Features",
+      "items": [
+        "AI-powered meeting planning",
+        "Automatic protocol creation",
+        "Team collaboration",
+        "Mobile app (in development)",
+        "Integrations",
+        "API access",
+        "Custom branding",
+        "Dedicated support"
+      ]
+    },
+    "saas": "SaaS",
+    "selfHosted": "Self-Hosted",
+    "custom": "Custom",
+    "available": "Available",
+    "limited": "Limited",
+    "onRequest": "On Request"
+  },
+  "consultation": {
+    "title": "Which solution fits you?",
+    "description": "Contact us for personal consultation and find the right solution for your requirements.",
+    "cta": "Schedule Free Consultation"
+  },
+  "roadmap": {
+    "title": "Product Roadmap",
+    "subtitle": "See what comes next",
+    "items": [
+      {
+        "title": "Mobile App (Q2 2025)",
+        "description": "Native iOS and Android apps for on-the-go access",
+        "status": "In Development"
+      },
+      {
+        "title": "Enhanced AI Features (Q3 2025)",
+        "description": "Even smarter meeting summaries and suggestions",
+        "status": "Planned"
+      },
+      {
+        "title": "Enterprise SSO (Q4 2025)",
+        "description": "Integration with Active Directory and SAML",
+        "status": "Planned"
+      },
+      {
+        "title": "Advanced Analytics (Q1 2026)",
+        "description": "Detailed meeting efficiency analytics",
+        "status": "Concept"
+      }
+    ]
+  },
+  "useCases": {
+    "title": "Real-World Use Cases",
+    "subtitle": "How teams use OrganAIzer to transform their meetings",
+    "devTeams": {
+      "title": "Development Teams",
+      "description": "Sprint planning, retrospectives, and daily standups with automated task tracking and code review integration.",
+      "items": [
+        "Sprint planning automation",
+        "Retrospective documentation",
+        "Bug tracking integration",
+        "Code review workflows"
+      ]
+    },
+    "managementMeetings": {
+      "title": "Management Meetings",
+      "description": "Strategic planning sessions with decision tracking and follow-up management across departments.",
+      "items": [
+        "Strategic planning templates",
+        "Decision documentation",
+        "Cross-team coordination",
+        "Progress tracking"
+      ]
+    }
+  }
+}

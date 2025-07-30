@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  organaizer-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: organaizer-app
+    ports:
+      - "7703:7703"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    networks:
+      - organaizer-network
+
+networks:
+  organaizer-network:
+    driver: bridge

@@ -1,0 +1,13 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "productsSaaS": "OrganAIzer SaaS",
+    "productsSelfHosted": "OrganAIzer Self Hosted",
+    "productsCustom": "OrganAIzer Custom Solutions",
+    "technology": "Technology",
+    "ai": "AI",
+    "pricing": "Pricing",
+    "about": "About"
+  }
+}

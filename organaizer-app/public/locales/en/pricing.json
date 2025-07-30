@@ -1,0 +1,137 @@
+{
+  "title": "Pricing",
+  "description": "Transparent pricing models for every requirement",
+  "plans": {
+    "free": {
+      "title": "Free",
+      "price": "Free",
+      "features": [
+        "100 entries",
+        "10 AI requests",
+        "Basic support"
+      ],
+      "limitations": [
+        "100 entries total",
+        "Basic AI features",
+        "Community support"
+      ],
+      "bestFor": "Individual users & small teams",
+      "cta": "Start now"
+    },
+    "basic": {
+      "title": "Basic",
+      "price": "$19 / user",
+      "features": [
+        "1 million entries",
+        "1000 AI/month",
+        "Email support"
+      ],
+      "limitations": [
+        "1M entries per user",
+        "Standard AI",
+        "Email support"
+      ],
+      "bestFor": "Growing teams & startups",
+      "cta": "Select"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "$49 / user",
+      "features": [
+        "Unlimited",
+        "Entra ID",
+        "MCP server",
+        "Backups"
+      ],
+      "limitations": [
+        "Unlimited entries",
+        "Advanced AI",
+        "Priority support"
+      ],
+      "bestFor": "Large organizations",
+      "cta": "Contact us"
+    },
+    "selfHosted": {
+      "title": "Self-Hosted",
+      "price": "Free",
+      "features": [
+        "Full customization",
+        "GDPR compliant"
+      ],
+      "sourceCode": "View Source Code",
+      "cta": "Download now"
+    },
+    "mostPopular": "Most Popular"
+  },
+  "calculator": {
+    "title": "Pricing Calculator",
+    "teamSize": "Team Size",
+    "users": "users",
+    "basicPlan": "Basic Plan",
+    "enterprisePlan": "Enterprise"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "0": {
+      "question": "Can I change plans later?",
+      "answer": "Yes, you can upgrade or downgrade at any time. Changes take effect immediately."
+    },
+    "1": {
+      "question": "What happens when I exceed the free limit?",
+      "answer": "You'll receive a notification and can choose to upgrade or archive old entries."
+    },
+    "2": {
+      "question": "Is there a discount for annual billing?",
+      "answer": "Yes, annual billing provides a 15% discount on all paid plans."
+    },
+    "3": {
+      "question": "Do you offer educational discounts?",
+      "answer": "Yes, we offer 50% off for educational institutions and non-profits."
+    }
+  },
+  "costComparison": {
+    "title": "ROI Calculator: Time vs. Cost",
+    "tableHeaders": {
+      "method": "Method",
+      "monthlyCost": "Monthly Cost",
+      "hoursSaved": "Hours Saved/Week",
+      "roi": "ROI (50€/hour)"
+    },
+    "0": {
+      "method": "Traditional Meeting Tools",
+      "efficiency": "Low"
+    },
+    "1": {
+      "method": "OrganAIzer Basic",
+      "efficiency": "High"
+    },
+    "2": {
+      "method": "OrganAIzer Enterprise",
+      "efficiency": "Very High"
+    }
+  },
+  "futurePricing": {
+    "title": "Future Pricing Outlook",
+    "0": {
+      "year": "2025",
+      "changes": [
+        "Introduce team-based pricing tiers",
+        "Add usage-based billing options",
+        "Enhanced AI features in Basic plan"
+      ]
+    },
+    "1": {
+      "year": "2026",
+      "changes": [
+        "Volume discounts for 100+ users",
+        "Industry-specific pricing models",
+        "Advanced analytics add-ons"
+      ]
+    }
+  },
+  "enterpriseContact": {
+    "title": "Need Custom Pricing?",
+    "description": "For teams over 100 users or special requirements, contact our sales team for custom pricing.",
+    "button": "Contact Sales Team"
+  }
+}

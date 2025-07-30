@@ -1,0 +1,138 @@
+{
+  "title": "Technology",
+  "description": "Modern technology stack for best performance and security",
+  "subtitle": "Enterprise-Grade Architecture for Scalable Meeting Solutions",
+  "benefits": {
+    "title": "Why Our Technology?",
+    "items": [
+      {
+        "title": "100% Data Control",
+        "description": "Self-hosted option gives you full control over your data"
+      },
+      {
+        "title": "Unlimited Scalability",
+        "description": "Cloud-native architecture grows with your requirements"
+      },
+      {
+        "title": "Zero-Downtime Updates",
+        "description": "Rolling updates without interrupting your meetings"
+      },
+      {
+        "title": "Multi-Tenant Security",
+        "description": "Isolated databases for maximum data security"
+      }
+    ]
+  },
+  "architecture": {
+    "title": "Architecture Overview",
+    "description": "OrganAIzer uses a modern microservices architecture for maximum performance and reliability",
+    "components": [
+      {
+        "name": "PostgreSQL",
+        "description": "High-performance relational database with multi-tenant support",
+        "features": ["ACID Compliance", "JSONB Support", "Full-Text Search", "Row-Level Security"]
+      },
+      {
+        "name": "Hasura GraphQL",
+        "description": "Real-time API engine with automatic schema generation",
+        "features": ["Instant APIs", "Real-time Subscriptions", "Role-based Access", "Caching"]
+      },
+      {
+        "name": "React + Vite",
+        "description": "Lightning-fast frontend performance with modern build system",
+        "features": ["Hot Module Reload", "Tree Shaking", "Code Splitting", "PWA Support"]
+      },
+      {
+        "name": "Docker & Kubernetes",
+        "description": "Container orchestration for scalable deployment",
+        "features": ["Auto-Scaling", "Load Balancing", "Health Checks", "Rolling Updates"]
+      },
+      {
+        "name": "AI/ML Pipeline",
+        "description": "Artificial intelligence for intelligent content processing",
+        "features": ["NLP Processing", "Content Analysis", "Smart Suggestions", "Auto-Summarization"]
+      }
+    ]
+  },
+  "performance": {
+    "title": "Performance Metrics",
+    "metrics": [
+      { "label": "API Response Time", "value": "< 100ms", "description": "Average API response time" },
+      { "label": "Uptime", "value": "99.9%", "description": "SaaS platform availability" },
+      { "label": "Concurrent Users", "value": "10,000+", "description": "Simultaneous users per instance" },
+      { "label": "Data Processing", "value": "1M+", "description": "Entries processed per day" }
+    ]
+  },
+  "security": {
+    "title": "Security Features",
+    "items": [
+      {
+        "title": "End-to-End Encryption",
+        "description": "All data encrypted at rest and in transit"
+      },
+      {
+        "title": "Zero-Trust Architecture",
+        "description": "Every request is authenticated and authorized"
+      },
+      {
+        "title": "GDPR Compliant",
+        "description": "Full GDPR compliance with EU-based servers"
+      },
+      {
+        "title": "Audit Logging",
+        "description": "Complete traceability of all actions"
+      }
+    ]
+  },
+  "deployment": {
+    "title": "Deployment Options",
+    "options": [
+      {
+        "title": "Cloud (SaaS)",
+        "description": "Ready to use with 99.9% uptime guarantee",
+        "features": ["Instant availability", "Automatic updates", "Scalable", "24/7 Support"]
+      },
+      {
+        "title": "Self-Hosted",
+        "description": "Full control over your infrastructure and data",
+        "features": ["Full data control", "Customizable", "Open Source", "GDPR compliant"]
+      },
+      {
+        "title": "Hybrid",
+        "description": "Combination of cloud and on-premise as needed",
+        "features": ["Flexible architecture", "Data sovereignty", "Skalierbar", "Maßgeschneidert"]
+      }
+    ]
+  },
+  "compliance": {
+    "title": "Compliance & Certifications",
+    "standards": [
+      "ISO 27001 Information Security",
+      "SOC 2 Type II",
+      "GDPR / DSGVO",
+      "HIPAA Ready",
+      "FedRAMP Ready"
+    ],
+    "description": "We can adjust OrganAIzer.App to your Compliance wishes. We will continuously improve our services. Ask for Enterprise support to provide:"
+  },
+  "stack": {
+    "title": "Built for Enterprise Scale",
+    "description": "OrganAIzer's technology stack is designed to handle millions of meetings while maintaining enterprise-grade security and performance standards.",
+    "uptime": {
+      "value": "99.9%",
+      "label": "Uptime Guarantee"
+    },
+    "users": {
+      "value": "10,000+",
+      "label": "Concurrent Users"
+    },
+    "entries": {
+      "value": "1M+",
+      "label": "Daily Entries"
+    },
+    "api": {
+      "value": "< 100ms",
+      "label": "API Response"
+    }
+  }
+}

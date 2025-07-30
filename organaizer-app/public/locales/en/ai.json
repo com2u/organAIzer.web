@@ -1,0 +1,110 @@
+{
+  "title": "Artificial Intelligence",
+  "description": "AI-powered features for intelligent meeting planning and task management",
+  "features": [
+    "Automatic content summarization",
+    "Intelligent suggestions for entries and relationships",
+    "Prompt-based generation and adaptation",
+    "Multiple input channels for customer tools"
+  ],
+  "howItWorks": {
+    "title": "How AI Helps",
+    "items": [
+      {
+        "title": "Content Analysis",
+        "description": "AI analyzes meeting content and provides intelligent insights"
+      },
+      {
+        "title": "Smart Suggestions",
+        "description": "Get AI-powered suggestions for tasks and meeting improvements"
+      },
+      {
+        "title": "Team Collaboration",
+        "description": "AI helps optimize team workflows and communication"
+      },
+      {
+        "title": "Automation",
+        "description": "Automate repetitive tasks and focus on what matters"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready for AI-powered meetings?",
+    "description": "Discover how OrganAIzer's AI features can transform your meeting experience.",
+    "button": "Start with AI"
+  },
+  "currentCapabilities": {
+    "title": "Current AI Capabilities",
+    "items": [
+      {
+        "icon": "faFileAlt",
+        "title": "Meeting Summary Generation",
+        "description": "AI automatically creates concise summaries from meeting notes and discussions, highlighting key decisions and action items."
+      },
+      {
+        "icon": "faSearch",
+        "title": "Smart Content Discovery",
+        "description": "Intelligent search across all entries with semantic understanding - find relevant information even with vague queries."
+      },
+      {
+        "icon": "faClock",
+        "title": "Time Allocation Optimization",
+        "description": "AI suggests optimal time distribution for agenda items based on historical data and topic complexity."
+      },
+      {
+        "icon": "faMagic",
+        "title": "Context-Aware Suggestions",
+        "description": "Proposes relevant labels, assigns tasks to appropriate team members, and suggests follow-up actions based on content analysis."
+      }
+    ]
+  },
+  "futureRoadmap": {
+    "title": "AI Development Roadmap",
+    "items": [
+      {
+        "phase": "Q2 2025",
+        "title": "Enhanced Natural Language Processing",
+        "description": "Improved understanding of meeting context with better German language support and industry-specific terminology recognition.",
+        "status": "In Development"
+      },
+      {
+        "phase": "Q3 2025",
+        "title": "Predictive Meeting Analytics",
+        "description": "AI will predict meeting outcomes, identify potential bottlenecks, and suggest optimal participant lists based on expertise.",
+        "status": "Planned"
+      },
+      {
+        "phase": "Q4 2025",
+        "title": "Voice-to-Text Integration",
+        "description": "Real-time transcription with speaker identification and automatic action item extraction from audio recordings.",
+        "status": "Concept Phase"
+      },
+      {
+        "phase": "Q1 2026",
+        "title": "Intelligent Meeting Templates",
+        "description": "AI-generated meeting templates based on meeting type, team composition, and historical success patterns.",
+        "status": "Research Phase"
+      }
+    ]
+  },
+  "limitations": {
+    "0": {
+      "title": "Current Limitations",
+      "items": [
+        "AI requires human review for critical decisions",
+        "Complex technical discussions may need manual refinement",
+        "Cultural nuances in communication are still being learned",
+        "Privacy-sensitive content requires explicit user approval"
+      ]
+    },
+    "1": {
+      "title": "Data Privacy First",
+      "items": [
+        "All AI processing happens with GDPR compliance",
+        "User data is never used for training external models",
+        "Opt-in system for AI feature usage",
+        "Full transparency in AI decision-making processes"
+      ]
+    }
+  }
+}
